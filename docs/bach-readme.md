@@ -14,11 +14,11 @@ Our transformation system uses a systematic naming convention that clearly indic
 
 - R: Right hand (Treble clef)
 - L: Left hand (Bass clef)
-- Numbers indicate note durations (2 = half notes, 4 = quarter notes, 8 = eighth notes, 16 = sixteenth notes)
+- Numbers indicate note durations (2 = half notes, 4 = quarter notes, 8 = eighth notes, 16 = sixteenth notes, ...)
 
 For example:
-- R2L2: Half notes in both hands (simplest arrangement)
-- R16L8: Sixteenth notes in right hand, eighth notes in left hand (most complex arrangement)
+- R2L2: Half notes in both hands (or greater rythmic values. Mathematically we could have said, "R>=2". In the interest of musical pedagogy and intuitive muscial understanding we drop the ">=".) (simplest arrangement)
+- R16L8: Sixteenth notes in right hand, eighth notes in left hand (most complex arrangement)(again the we could have said, "R>=16L>=8")(Perhaps this added detail should be left as a footnote. For, now I add it because it is necesary in my opinion to understand why the inuitive algorithm employed allows for whole notes the the nomenclature implies only half notes.)
 
 The complete progression includes:
 1. R2L2 (Basic rhythm foundation)

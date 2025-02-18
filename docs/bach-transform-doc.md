@@ -97,7 +97,7 @@ Contributions are welcome! Please:
 4. Submit a pull request
 
 ## Original Author
-[Terry Michael Lavios]
+[TMLavios]
 
 ## Contributors
 - Claude (Initial development support)
